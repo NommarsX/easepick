@@ -1,25 +1,4 @@
-easepick
-===
+# Untitled
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fbundle.svg)](https://www.npmjs.com/package/@easepick/bundle) ![workflow](https://github.com/easepick/easepick/actions/workflows/node.js.yml/badge.svg)
+A Pen created on CodePen.io. Original URL: [https://codepen.io/NommarsX/pen/eYqOWEz](https://codepen.io/NommarsX/pen/eYqOWEz).
 
-![easepick screenshot](https://dev.jsx4.com/easepick/screenshot.png)
-
-## Features
-
-- No dependencies
-- Uses [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
-- Supports plugins
-
-
-## Documentation
-
-- [Overview](https://easepick.com/)
-- [Configurator](https://easepick.com/configurator)
-- [Packages](https://easepick.com/packages)
-- [Examples](https://easepick.com/examples)
-
-
-## License
-
-Licensed under the terms of [GNU General Public License Version 2 or later](http://www.gnu.org/licenses/gpl.html).
